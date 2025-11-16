@@ -8,4 +8,4 @@ Currently, I seek to career shift toward AI & Machine learning.
 
 ### Technologies
 #### Software Testing
-<img src="./icons/Cypress-Dark.svg" width="48"> <img src="./icons/Eclipse-Dark.svg" width="48"> <img src="./icons/Gherkin-Dark.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> 
+<img src="./icons/Cypress-Dark.svg" width="48"> <img src="./icons/Eclipse-Dark.svg" width="48"> <img src="./icons/Gherkin-Dark.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> <img src="./icons/Jenkins-Dark.svg" width="48"> <img src="./icons/Jest.svg" width="48"> <img src="./icons/Maven-Dark.svg" width="48"> <img src="./icons/Npm-Dark.svg" width="48"> <img src="./icons/Selenium.svg" width="48"> <img src="./icons/TypeScript.svg" width="48"> <img src="./icons/Playwright.svg" width="48"> <img src="./icons/Appium.svg" width="48"> 
