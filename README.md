@@ -8,4 +8,13 @@ Currently, I seek to career shift toward AI & Machine learning.
 
 ### Technologies
 #### Software Testing
-<img src="./icons/Cypress-Dark.svg" width="48"> <img src="./icons/Eclipse-Dark.svg" width="48"> <img src="./icons/Gherkin-Dark.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> <img src="./icons/Jenkins-Dark.svg" width="48"> <img src="./icons/Jest.svg" width="48"> <img src="./icons/Maven-Dark.svg" width="48"> <img src="./icons/Npm-Dark.svg" width="48"> <img src="./icons/Selenium.svg" width="48"> <img src="./icons/TypeScript.svg" width="48"> <img src="./icons/Playwright.svg" width="48"> <img src="./icons/Appium.svg" width="48"> 
+<img src="./icons/Cypress-Dark.svg" width="48"> <img src="./icons/Eclipse-Dark.svg" width="48"> <img src="./icons/Gherkin-Dark.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> <img src="./icons/Jenkins-Dark.svg" width="48"> <img src="./icons/Jest.svg" width="48"> <img src="./icons/Maven-Dark.svg" width="48"> <img src="./icons/Npm-Dark.svg" width="48"> <img src="./icons/Selenium.svg" width="48"> <img src="./icons/TypeScript.svg" width="48"> <img src="./icons/Playwright.svg" width="48"> <img src="./icons/appium2.svg" width="43"> 
+
+#### Machine Learning
+<img src="./icons/FastAPI.svg" width="48"> <img src="./icons/Flask-Dark.svg" width="48"> <img src="./icons/Matlab-Dark.svg" width="48"> <img src="./icons/OpenCV-Dark.svg" width="48"> <img src="./icons/PyCharm-Dark.svg" width="48"> <img src="./icons/Python-Dark.svg" width="48"> <img src="./icons/PyTorch-Dark.svg" width="48"> <img src="./icons/ScikitLearn-Dark.svg" width="48"> <img src="./icons/TensorFlow-Dark.svg" width="48"> <img src="./icons/VIM-Dark.svg" width="48"> 
+
+#### Game Development
+<img src="./icons/Blender-Dark.svg" width="48"> <img src="./icons/C.svg" width="48"> <img src="./icons/CPP.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Unity-Dark.svg" width="48"> <img src="./icons/UnrealEngine.svg" width="48"> <img src="./icons/VisualStudio-Dark.svg" width="48">
+
+#### Desktop Development
+<img src="./icons/VisualStudio-Dark.svg" width="48"> <img src="./icons/DotNet.svg" width="48">
