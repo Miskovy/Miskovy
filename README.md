@@ -7,6 +7,10 @@ In 2021, I started to learn Software Testing worked on several projects and work
 Currently, I seek to career shift toward AI & Machine learning.
 
 ### Technologies
+#### Backend Development
+<img src="./icons/NodeJS-Dark.svg" width="48"> <img src="./icons/ExpressJS-Dark.svg" width="48"> <img src="./icons/MongoDB.svg" width="48"> <img src="./icons/PostgreSQL-Dark.svg" width="48"> <img src="./icons/MySQL-Dark.svg" width="48">
+
+
 #### Software Testing
 <img src="./icons/Cypress-Dark.svg" width="48"> <img src="./icons/Eclipse-Dark.svg" width="48"> <img src="./icons/Gherkin-Dark.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> <img src="./icons/Jenkins-Dark.svg" width="48"> <img src="./icons/Jest.svg" width="48"> <img src="./icons/Maven-Dark.svg" width="48"> <img src="./icons/Npm-Dark.svg" width="48"> <img src="./icons/Selenium.svg" width="48"> <img src="./icons/TypeScript.svg" width="48"> <img src="./icons/Playwright.svg" width="48"> <img src="./icons/appium2.svg" width="43"> 
 
@@ -17,4 +21,4 @@ Currently, I seek to career shift toward AI & Machine learning.
 <img src="./icons/Blender-Dark.svg" width="48"> <img src="./icons/C.svg" width="48"> <img src="./icons/CPP.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Unity-Dark.svg" width="48"> <img src="./icons/UnrealEngine.svg" width="48"> <img src="./icons/VisualStudio-Dark.svg" width="48">
 
 #### Desktop Development
-<img src="./icons/VisualStudio-Dark.svg" width="48"> <img src="./icons/DotNet.svg" width="48">
+<img src="./icons/VisualStudio-Dark.svg" width="48"> <img src="./icons/DotNet.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48">
