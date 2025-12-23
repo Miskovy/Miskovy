@@ -9,7 +9,7 @@ Currently, I seek to career shift toward AI & Machine learning.
 ### Technologies
 #### Backend Development
 <img src="./icons/NodeJS-Dark.svg" width="48"> <img src="./icons/ExpressJS-Dark.svg" width="48"> <img src="./icons/MongoDB.svg" width="48"> <img src="./icons/PostgreSQL-Dark.svg" width="48"> <img src="./icons/MySQL-Dark.svg" width="48">
-
+<img src="./icons/FastAPI.svg" width="48"> <img src="./icons/TypeScript.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Python-Dark.svg" width="48">
 
 #### Software Testing
 <img src="./icons/Cypress-Dark.svg" width="48"> <img src="./icons/Eclipse-Dark.svg" width="48"> <img src="./icons/Gherkin-Dark.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> <img src="./icons/Jenkins-Dark.svg" width="48"> <img src="./icons/Jest.svg" width="48"> <img src="./icons/Maven-Dark.svg" width="48"> <img src="./icons/Npm-Dark.svg" width="48"> <img src="./icons/Selenium.svg" width="48"> <img src="./icons/TypeScript.svg" width="48"> <img src="./icons/Playwright.svg" width="48"> <img src="./icons/appium2.svg" width="43"> 
