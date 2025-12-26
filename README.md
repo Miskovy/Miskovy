@@ -4,7 +4,7 @@
 I'm a software engineer who is passionate about IT field for over 10 years , at first i started learning to code in 2014; created many projects in visual basic like web browsers, notepads, calculators and even simple games, my age was 13 years old back then.
 Since i love gaming in this age; i started to learn how to create games and evolved by time starting from unity 3d to unreal engine and i created my first game which is "The Cave Walker" , In 2017 when i was 15 years old.
 In 2021, I started to learn Software Testing worked on several projects and worked as a freelancing Software Tester.
-Currently, I seek to career shift toward AI & Machine learning.
+Currently, I work as a Backend Software Engineer.
 
 ### Technologies
 #### Backend Development
