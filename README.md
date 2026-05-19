@@ -7,6 +7,8 @@ In 2021, I started to learn Software Testing worked on several projects and work
 Currently, I work as a Backend Software Engineer.
 
 ### Technologies
+#### Frontend Development
+<img src="./icons/HTML.svg" width="48"> <img src="./icons/CSS.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/TypeScript.svg" width="48"> <img src="./icons/Redux..svg" width="48"> <img src="./icons/React-Dark.svg" width="48"> <img src="./icons/NextJS-Dark.svg" width="48"> <img src="./icons/odoobigger.svg" width="48">
 #### Backend Development
 <img src="./icons/NodeJS-Dark.svg" width="48"> <img src="./icons/ExpressJS-Dark.svg" width="48"> <img src="./icons/NestJS-Dark.svg" width="48"> <img src="./icons/MongoDB.svg" width="48"> <img src="./icons/PostgreSQL-Dark.svg" width="48"> <img src="./icons/MySQL-Dark.svg" width="48">
 <img src="./icons/FastAPI.svg" width="48"> <img src="./icons/TypeScript.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Python-Dark.svg" width="48"> <img src="./icons/odoobigger.svg" width="48">
