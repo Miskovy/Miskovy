@@ -1,26 +1,73 @@
-## < Mazen Khairy > </ Software Engineer , Machine Learning and Computer Vision >
+<!-- Original pixel artwork. Keep assets/retro beside this README. -->
+<p align="center">
+  <img src="./assets/retro/banner.gif" width="960" alt="Miskovy — Mazen Khairy. Software engineer: backend, AI and computer vision. Pixel computer with a blinking cursor.">
+</p>
 
-### About Me
-I'm a software engineer who is passionate about IT field for over 10 years , at first i started learning to code in 2014; created many projects in visual basic like web browsers, notepads, calculators and even simple games, my age was 13 years old back then.
-Since i love gaming in this age; i started to learn how to create games and evolved by time starting from unity 3d to unreal engine and i created my first game which is "The Cave Walker" , In 2017 when i was 15 years old.
-In 2021, I started to learn Software Testing worked on several projects and worked as a freelancing Software Tester.
-Currently, I work as a Backend Software Engineer.
+<p align="center">
+  <a href="#player-profile"><code>01 PLAYER</code></a> &nbsp; · &nbsp;
+  <a href="#active-quest"><code>02 QUEST</code></a> &nbsp; · &nbsp;
+  <a href="#inventory"><code>03 INVENTORY</code></a> &nbsp; · &nbsp;
+  <a href="#save-file"><code>04 SAVE FILE</code></a>
+</p>
 
-### Technologies
-#### Frontend Development
-<img src="./icons/HTML.svg" width="48"> <img src="./icons/CSS.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/TypeScript.svg" width="48"> <img src="./icons/React-Dark.svg" width="48"> <img src="./icons/Redux.svg" width="48"> <img src="./icons/NextJS-Dark.svg" width="48"> <img src="./icons/TailwindCSS-Dark.svg" width="48"> <img src="./icons/odoobigger.svg" width="48"> 
-#### Backend Development
-<img src="./icons/NodeJS-Dark.svg" width="48"> <img src="./icons/ExpressJS-Dark.svg" width="48"> <img src="./icons/NestJS-Dark.svg" width="48"> <img src="./icons/MongoDB.svg" width="48"> <img src="./icons/PostgreSQL-Dark.svg" width="48"> <img src="./icons/MySQL-Dark.svg" width="48"> <img src="./icons/Redis-Dark.svg" width="48"> <img src="./icons/Docker.svg" width="48"> 
-<img src="./icons/FastAPI.svg" width="48"> <img src="./icons/TypeScript.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Python-Dark.svg" width="48"> <img src="./icons/odoobigger.svg" width="48">
+<a id="player-profile"></a>
+<img src="./assets/retro/player.png" width="960" alt="01 — Player profile">
 
-#### Software Testing
-<img src="./icons/Cypress-Dark.svg" width="48"> <img src="./icons/Eclipse-Dark.svg" width="48"> <img src="./icons/Gherkin-Dark.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> <img src="./icons/Jenkins-Dark.svg" width="48"> <img src="./icons/Jest.svg" width="48"> <img src="./icons/Maven-Dark.svg" width="48"> <img src="./icons/Npm-Dark.svg" width="48"> <img src="./icons/Selenium.svg" width="48"> <img src="./icons/TypeScript.svg" width="48"> <img src="./icons/Playwright.svg" width="48"> <img src="./icons/appium2.svg" width="43"> 
+I'm **Mazen Khairy**, a software engineer focused on **backend development**, with a strong interest in **machine learning and computer vision**.
 
-#### Machine Learning
-<img src="./icons/FastAPI.svg" width="48"> <img src="./icons/Flask-Dark.svg" width="48"> <img src="./icons/Matlab-Dark.svg" width="48"> <img src="./icons/OpenCV-Dark.svg" width="48"> <img src="./icons/PyCharm-Dark.svg" width="48"> <img src="./icons/Python-Dark.svg" width="48"> <img src="./icons/PyTorch-Dark.svg" width="48"> <img src="./icons/ScikitLearn-Dark.svg" width="48"> <img src="./icons/TensorFlow-Dark.svg" width="48"> <img src="./icons/VIM-Dark.svg" width="48"> 
+I started with Visual Basic experiments and game development. These days, I build backend systems and explore how software works under the hood.
 
-#### Game Development
-<img src="./icons/Blender-Dark.svg" width="48"> <img src="./icons/C.svg" width="48"> <img src="./icons/CPP.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/Unity-Dark.svg" width="48"> <img src="./icons/UnrealEngine.svg" width="48"> <img src="./icons/VisualStudio-Dark.svg" width="48">
+```typescript
+const player = {
+  name: "Mazen Khairy",
+  handle: "Miskovy",
+  mainStack: ["TypeScript", "Node.js", "NestJS", "Python"],
+  interests: ["backend systems", "parallel computing", "computer vision"],
+  firstSave: 2014,
+};
+```
 
-#### Desktop Development
-<img src="./icons/VisualStudio-Dark.svg" width="48"> <img src="./icons/DotNet.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48">
+<a id="active-quest"></a>
+<img src="./assets/retro/quest.png" width="960" alt="02 — Active quest">
+
+### [PJS — Parallel JavaScript Runtime](https://github.com/Miskovy/parallel-javascript)
+
+Running explicitly registered CPU tasks in persistent Node.js workers, with bounded queues and explicit memory ownership.
+
+I'm exploring the parts that make parallel computation useful in real applications: execution overhead, resource limits, worker lifecycle, and failure handling.
+
+**[ENTER PROJECT](https://github.com/Miskovy/parallel-javascript)** · **[READ THE SCIENCE](https://github.com/Miskovy/parallel-javascript/tree/main/science)** · **[ALL PROJECTS](https://github.com/Miskovy?tab=repositories)**
+
+<a id="inventory"></a>
+<img src="./assets/retro/inventory.png" width="960" alt="03 — Inventory">
+
+| Slot | Equipment |
+| :--- | :--- |
+| `BACKEND` | Node.js · TypeScript · NestJS · Express · FastAPI |
+| `DATA` | PostgreSQL · MySQL · MongoDB · Redis |
+| `DEPLOY` | Docker |
+| `FRONTEND` | React · Next.js · Tailwind CSS |
+| `ERP` | Odoo |
+| `AI / VISION` | Python · PyTorch · TensorFlow · scikit-learn · OpenCV |
+| `TESTING` | Playwright · Selenium · Cypress · Jest · Appium |
+| `GAMES` | Unity · Unreal Engine · Blender · C++ |
+| `DESKTOP` | .NET · Java |
+
+<a id="save-file"></a>
+<img src="./assets/retro/story.png" width="960" alt="04 — Save file: my coding history">
+
+| Save | Chapter |
+| :--- | :--- |
+| `2014` | Started with Visual Basic: browsers, notepads, calculators, and simple games. |
+| `2017` | Explored Unity and Unreal Engine. Created my first game, **The Cave Walker**. |
+| `2021` | Moved into software testing and started freelancing. |
+| `TODAY` | Building backend systems and exploring ML, computer vision, and JavaScript parallelism. |
+
+<p align="center">
+  Contributions and thoughtful discussions are welcome.<br>
+  <a href="https://github.com/Miskovy?tab=repositories"><code>EXPLORE MY REPOSITORIES</code></a>
+</p>
+
+<p align="center">
+  <img src="./assets/retro/footer.png" width="960" alt="Thanks for stopping by — continue">
+</p>
