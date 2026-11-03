@@ -13,4 +13,5 @@ Open Source Contributions
   </a>
   <br>
   <strong>NestJS · 1 merged contribution</strong>
-</p>- nestjs/docs.nestjs.com #3634 — Fixed the Locks store contract documentation link.
+  
+<a href="https://github.com/nestjs/docs.nestjs.com/commit/56039e9f29fc97f450a7c6a6f7d046f725d8a7f9">- nestjs/docs.nestjs.com #3634 </a> — Fixed the Locks store contract documentation link.
