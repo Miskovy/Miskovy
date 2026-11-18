@@ -3,7 +3,7 @@
 I'm **Mazen**, a software engineer focused on backend development, with an interest in machine learning and computer vision.
 
 **Main stack:** `TypeScript` · `Node.js` · `NestJS` · `PostgreSQL` · `Docker`
-<!--- 
+
 Open Source Contributions
 <p>
   <a href="https://github.com/nestjs">
@@ -11,6 +11,7 @@ Open Source Contributions
   </a>
   <br>
   <strong>NestJS · 1 merged contribution</strong>
-  
+
+<a href="https://github.com/nestjs/workflows/commit/b57ccc87193d7bf119448a14be53ab0d40713bf2">- nestjs/workflows #100 </a> — Bugfix: bound worker shutdown waits for in-flight claims
+
 <a href="https://github.com/nestjs/docs.nestjs.com/commit/56039e9f29fc97f450a7c6a6f7d046f725d8a7f9">- nestjs/docs.nestjs.com #3634 </a> — Fixed the Locks store contract documentation link.
---->
