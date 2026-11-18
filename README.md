@@ -10,7 +10,7 @@ Open Source Contributions
     <img src="./icons/NestJS-Dark.svg" width="48" height="48" alt="NestJS">
   </a>
   <br>
-  <strong>NestJS · 1 merged contribution</strong>
+  <strong>NestJS · 2 merged contribution</strong>
 
 <a href="https://github.com/nestjs/workflows/commit/b57ccc87193d7bf119448a14be53ab0d40713bf2">- nestjs/workflows #100 </a> — Bugfix: bound worker shutdown waits for in-flight claims
 
